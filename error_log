@@ -1,0 +1,1 @@
+[22-Apr-2019 18:32:41 UTC] PHP Fatal error:  Declaration of App\Exceptions\Handler::render($request, Exception $exception, Closure $next) must be compatible with Illuminate\Foundation\Exceptions\Handler::render($request, Exception $e) in /home/safarey/public_html/app/Exceptions/Handler.php on line 9
